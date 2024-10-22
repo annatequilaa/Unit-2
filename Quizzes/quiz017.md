@@ -1,4 +1,8 @@
+# Quiz017 2024/10
 
+## Paper solution
+
+## Flowchart
 
 ## Code
 ```.py
@@ -23,3 +27,8 @@ def get_truth(n):
         out += "  |\n"
     return out
 ```
+
+## Proof of Work
+![image](https://github.com/user-attachments/assets/850c81f8-08aa-4ee1-a4bb-3c1c6d22e48f)
+![image](https://github.com/user-attachments/assets/2b16455a-8164-4337-8c1a-197b4057b4ba)
+
