@@ -11,7 +11,6 @@ def get_truth(n):
         digits.append(0)
     out = ""
     out += f"|bit{n}"
-#this prints numbers from big to small, change it to range(n) to make it from small to big. I prefer showing the biggest number first. 
     for i in range(n-1,0,-1):
         out += f"|bit{i}"
     out += "|\n"
