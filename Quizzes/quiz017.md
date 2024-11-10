@@ -1,7 +1,7 @@
 # Quiz017 2024/10
 
 ## Paper solution
-![image](https://github.com/user-attachments/assets/6fc7c21e-9216-4464-b0ac-85a9bdfead30)
+![image](https://github.com/user-attachments/assets/0abb067b-0ccd-4cfb-97ed-b1f715b50309)
 
 ## Flowchart
 
