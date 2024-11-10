@@ -1,7 +1,7 @@
 # Quiz018 2024/10
 
 ## Paper solution
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b44f1def-30b9-41a1-9419-eacc641cfc0f)
 
 ## Code
 ```.py
