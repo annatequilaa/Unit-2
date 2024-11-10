@@ -1,6 +1,7 @@
 # Quiz018 2024/10
 
 ## Paper solution
+![Uploading image.png…]()
 
 ## Code
 ```.py
