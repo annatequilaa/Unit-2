@@ -1,5 +1,5 @@
 # Quiz024 2024/10
-## (I have put what I have currently but since quiz 24 isn't in the slides, I cannot do the paper solution and confirm what the coding prompt/problem is)
+# (I have put what I have currently but since quiz 24 isn't in the slides, I cannot do the paper solution and confirm what the coding prompt/problem is)
 
 ## Paper solution
 
@@ -23,4 +23,5 @@ plt.show()
 ```
 
 ## Proof of Work
+![image](https://github.com/user-attachments/assets/4235f3f5-1933-4207-a0d9-5ceaf69a3492)
 
