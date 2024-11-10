@@ -3,8 +3,6 @@
 ## Paper solution
 ![image](https://github.com/user-attachments/assets/0abb067b-0ccd-4cfb-97ed-b1f715b50309)
 
-## Flowchart
-
 ## Code
 ```.py
 def get_truth(n):
