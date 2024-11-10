@@ -1,6 +1,7 @@
 # Quiz019 2024/10
 
 ## Paper solution
+![image](https://github.com/user-attachments/assets/740a37f9-875a-4961-8e2b-ceacc94d114b)
 
 ## Code
 ```.py
