@@ -1,6 +1,7 @@
 # Quiz022 2024/11
 
 ## Paper solution
+![image](https://github.com/user-attachments/assets/d603fcb5-0974-42a8-b204-bd39629eae80)
 
 ## Code
 ```.py
