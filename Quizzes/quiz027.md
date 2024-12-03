@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b5a88446-78af-4bc6-9ecd-ddc361c24eb7)# Quiz027 2024/11
+# Quiz027 2024/11
 
 ## graph
 ![image](https://github.com/user-attachments/assets/cd64aa30-fdeb-4a2d-bf47-b805adc96797)
