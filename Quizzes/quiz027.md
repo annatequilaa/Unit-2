@@ -17,6 +17,9 @@ def sort_dict(in_dict: dict):
             elif type(v[i]) == int and type(v[n]) == int and v[i] > v[n]:
                 v[i], v[n] = v[n], v[i]
                 k[i], k[n] = k[n], k[i]
+            elif type(v[i]) == str and type(v[n]) == str and len(v[i]) > len(v[n]):
+                v[i], v[n] = v[n], v[i]
+                k[i], k[n] = k[n], k[i]
     for i in range(len(v)):
         out_dict[k[i]] = v[i]
     return out_dict
