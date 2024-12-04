@@ -56,5 +56,6 @@ plt.show()
 ```
 
 ## Proof of Work
+I put it all in 1 graph because that's what I think the instructions suggest. However, if you want 3 subplots, I can also produce the code for that. Please contact me at 2026.yien.tsai@uwcisak.jp.
 ![image](https://github.com/user-attachments/assets/248af526-d8c5-4c27-97dc-3ec78c9efab7)
 
